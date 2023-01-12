@@ -30,7 +30,8 @@ footer {
 
 
 body {
-    background: radial-gradient(circle, rgba(2,0,36,1) 0%, rgba(67,168,238,1) 0%, rgba(0,5,255,1) 100%);
+    background-image: url("../images/ImageFond.jpg");
+    background-size: cover;
     font-family: 'Montserrat', sans-serif;
     font-weight: 600;
     line-height: 1.5;
